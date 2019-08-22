@@ -1,2 +1,2 @@
 # teaching_gh_example
-just a repo to teach with
+just a repo to teach with. let's see how useful this is. 
